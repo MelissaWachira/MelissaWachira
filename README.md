@@ -1,4 +1,4 @@
-# Hi there, I'm Melissa Wachira
+# Hello, I'm Melissa Wachira
 
 Third year student based in Nairobi, Kenya passionate about data analysis, artificial intelligence and building technology that solves real African problems.
 
