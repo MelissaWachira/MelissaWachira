@@ -9,7 +9,6 @@ Third year student based in Nairobi, Kenya passionate about data analysis, artif
 - Third-year student in Nairobi, Kenya
 - Passionate about AI, machine learning and data analysis
 - Interested in health technology and NGO/social impact applications
-- Focused on building solutions relevant to the African context
 - Actively looking for internship opportunities in data and A
 - I will continue adding more repositories as I progress through my studies
 
